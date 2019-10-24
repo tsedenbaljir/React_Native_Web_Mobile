@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bb6c4b090ca7e32a0e5c81483adf003/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1051cdd99f3c50fa6b5b235b62f1dade/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5c301f200883987542843a0e6994b753/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1ae71c402599360f3d535aa8473d911a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3e8052da6ac5654e353c9079db48ac0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/68a6b618ec0d82470e200357de7dccd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ff3bc1985f16d326cebafec74851e134/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e759ed0c4a9d9c9a9030990bf8c06fbc/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/32647f7ad567f8b09a3b6ed10466c6c6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/1506b4e1799546d8ac7eabef1cffd982/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c60a8b9119e6cff919e6d3eb02c7b906/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/caa5828e022900df3f3fe12a2251d817/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/25735e08ebbb0ed4ff1a7419df30a9a9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/21432f6c516eb6d60817c61be1c73546/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c40b908d9974be6b388301c5fa1f7b0a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f175403abeb3c8d24e82e4535177397d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c37e2ea84782d48e59dba9889519d486/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c2c2f66ee7af058308aa8bf1adf13943/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/67cdaa4457be87805754b376cf2663f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/853c905b80823b00ad1d4d2b59527b23/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c60a8b9119e6cff919e6d3eb02c7b906/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c60a8b9119e6cff919e6d3eb02c7b906/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/caa5828e022900df3f3fe12a2251d817/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/caa5828e022900df3f3fe12a2251d817/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.nativeandweb.MainActivity
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d421ba5f8d7757a191b6b62ca970e668/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bb6c4b090ca7e32a0e5c81483adf003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bb6c4b090ca7e32a0e5c81483adf003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1051cdd99f3c50fa6b5b235b62f1dade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1051cdd99f3c50fa6b5b235b62f1dade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5c301f200883987542843a0e6994b753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5c301f200883987542843a0e6994b753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1ae71c402599360f3d535aa8473d911a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1ae71c402599360f3d535aa8473d911a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3e8052da6ac5654e353c9079db48ac0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3e8052da6ac5654e353c9079db48ac0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/68a6b618ec0d82470e200357de7dccd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/68a6b618ec0d82470e200357de7dccd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ff3bc1985f16d326cebafec74851e134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ff3bc1985f16d326cebafec74851e134/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e759ed0c4a9d9c9a9030990bf8c06fbc/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e759ed0c4a9d9c9a9030990bf8c06fbc/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/32647f7ad567f8b09a3b6ed10466c6c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/32647f7ad567f8b09a3b6ed10466c6c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/1506b4e1799546d8ac7eabef1cffd982/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/1506b4e1799546d8ac7eabef1cffd982/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c60a8b9119e6cff919e6d3eb02c7b906/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c60a8b9119e6cff919e6d3eb02c7b906/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/25735e08ebbb0ed4ff1a7419df30a9a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/25735e08ebbb0ed4ff1a7419df30a9a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/21432f6c516eb6d60817c61be1c73546/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/21432f6c516eb6d60817c61be1c73546/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c40b908d9974be6b388301c5fa1f7b0a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c40b908d9974be6b388301c5fa1f7b0a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f175403abeb3c8d24e82e4535177397d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/f175403abeb3c8d24e82e4535177397d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c37e2ea84782d48e59dba9889519d486/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c37e2ea84782d48e59dba9889519d486/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c2c2f66ee7af058308aa8bf1adf13943/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c2c2f66ee7af058308aa8bf1adf13943/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/67cdaa4457be87805754b376cf2663f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/67cdaa4457be87805754b376cf2663f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/853c905b80823b00ad1d4d2b59527b23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/chinggis666/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/853c905b80823b00ad1d4d2b59527b23/AndroidManifest.xml:20:5-44
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/chinggis666/reactProjects/nativeAndWeb/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

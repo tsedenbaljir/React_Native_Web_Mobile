@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chinggis666/reactProjects/nativeAndWeb/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/chinggis666/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ff3bc1985f16d326cebafec74851e134/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/chinggis666/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bb6c4b090ca7e32a0e5c81483adf003/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
